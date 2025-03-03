@@ -24,3 +24,9 @@ flutter:
     - images/4.png
     - images/5.png
     - images/6.png
+
+  fonts:
+          - family: Sigmar
+            fonts:
+              - asset: fonts/Sigmar-Regular.ttf
+                weight: 700
